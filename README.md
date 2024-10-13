@@ -23,7 +23,7 @@ cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 3. Explore the contents and run the code using your preferred IDE or command line interface.
 
 ## Prerequisites
-- Python 3.x
+- Java
 - Jupyter Notebook
 - Any additional libraries mentioned in specific assignments or projects
 
