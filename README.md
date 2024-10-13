@@ -3,11 +3,8 @@ This repository contains the lab assignments and practical exercises for the Dat
 
 ## Contents
 - Lab Assignments: Detailed solutions and code for each lab assignment.
-
 - Projects: Comprehensive projects undertaken during the course.
-
 - Datasets: Various datasets used in assignments and projects.
-
 - Documentation: Notes, reports, and other documentation related to the coursework.
 
 ## Usage
