@@ -21,3 +21,15 @@ Copy
 cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 ```
 3. Explore the contents and run the code using your preferred IDE or command line interface.
+
+## Prerequisites
+- Python 3.x
+- Jupyter Notebook
+- Any additional libraries mentioned in specific assignments or projects
+
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or additions.
+
+## Acknowledgements
+- SPPU and faculty for providing the course structure and guidance.
+- Classmates and peers for collaboration and support throughout the semester.
