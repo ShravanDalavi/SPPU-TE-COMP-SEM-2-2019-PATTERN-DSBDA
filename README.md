@@ -16,8 +16,6 @@ git clone https://github.com/yourusername/SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA.
 2. Navigate to the desired directory:
 
 ```bash
-
-Copy
 cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 ```
 3. Explore the contents and run the code using your preferred IDE or command line interface.
