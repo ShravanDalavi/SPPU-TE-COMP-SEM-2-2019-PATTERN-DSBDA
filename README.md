@@ -27,6 +27,5 @@ cd SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes or additions.
 
 ## Acknowledgements
-
 - SPPU and faculty for providing the course structure and guidance.
 - Classmates and peers for collaboration and support throughout the semester.
