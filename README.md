@@ -10,7 +10,7 @@ This repository contains the lab assignments and practical exercises for the Dat
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA.git
+git clone https://github.com/ShravanDalavi/SPPU-TE-COMP-SEM-2-2019-PATTERN-DSBDA.git
 ```
 2. Navigate to the desired directory:
 ```bash
